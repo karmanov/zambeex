@@ -9,5 +9,9 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
+    <modules>
+        <module>config-service</module>
+        <module>discovery-service</module>
+    </modules>
 
 </project>
