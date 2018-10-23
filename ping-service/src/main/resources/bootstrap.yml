@@ -1,0 +1,6 @@
+spring.cloud.config.uri: http://localhost:10000
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:10001/eureka/

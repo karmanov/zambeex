@@ -12,6 +12,7 @@
     <modules>
         <module>config-service</module>
         <module>discovery-service</module>
+        <module>ping-service</module>
     </modules>
 
 </project>
